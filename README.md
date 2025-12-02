@@ -34,7 +34,7 @@ Untuk mendapatkan akses penuh terhadap source code aplikasi ini, silakan hubungi
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-
+- **Python**
 - **HTML / CSS**
 - **Bootstrap 5**
 - **JavaScript**
