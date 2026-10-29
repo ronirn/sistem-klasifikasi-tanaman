@@ -251,7 +251,6 @@ Access is subject to the developer's approval.
 ## Author
 
 **Roni, S.Kom.**  
-Informatics Engineering · Universitas Muhammadiyah Pontianak  
 Machine Learning · Applied Data Science · Web Development
 
 ---
